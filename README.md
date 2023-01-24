@@ -1,4 +1,8 @@
-# JupyterLite online platform
+# JupyterLite online platform,. Visit the site by:
+https://shoukewei.github.io/jupyter/
+
+This platform is based on
+
 # JupyterLite Demo
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
