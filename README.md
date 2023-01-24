@@ -1,5 +1,5 @@
 # JupyterLite online platform,. Visit the site by:
-https://shoukewei.github.io/jupyter/
+https://shoukewei.github.io/cloudjupyter/
 
 This platform is based on
 
